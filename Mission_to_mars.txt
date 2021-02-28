@@ -1,5 +1,0 @@
-from bs4 import BeautifulSoup as bs
-import pandas as pd
-import requests
-from splinter from browser
-import pymongo
